@@ -1,3 +1,1 @@
-~~~text
-Gera senhas ué
-~~~
+teste gerearsenhas.py
