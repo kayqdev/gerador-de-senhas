@@ -1,2 +1,3 @@
 ~~~text
-Gera senhas ué~~~
+Gera senhas ué
+~~~
