@@ -1,1 +1,1 @@
-esse código foi para exercício com a biblioteca PySimpleGUI
+Um simples gerador de senhas utilizando a biblioteca PySimpleGUI.
